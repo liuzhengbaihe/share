@@ -144,4 +144,13 @@ C1
 爷爷（叶圣涛） ：多运动 抛开烦恼 和药药    
 宝贝（First Girl） ：弯一弯 嘴角角 挑一挑 小眉毛    
 合唱 ：快乐的 人儿永远 不会老    
-   
+
+<b>Halloween</b>  
+Knock Knock,Trick or treat,Who are you?  
+I'm a ghost(幽灵). I'm a little ghost.  
+Knock Knock,Trick or treat,Who are you?I'm a cowboy(牛仔). I'm a little cowboy.  
+Knock Knock,Trick or treat,Who are you?I'm a witch(巫婆). I'm a little witch.  
+Knock Knock,Trick or treat,Who are you?I'm a monster(怪兽). I'm a little monster.  
+Knock Knock,Trick or treat,Who are you?I'm a ballerina(芭蕾舞女演员). A little ballerina.  
+Knock Knock,Trick or treat,Who are you?I'm a pirate(海盗). I'm a little pirate.  
+Knock Knock，Trick or treat.Happy Halloween! Happy Hallowee  
